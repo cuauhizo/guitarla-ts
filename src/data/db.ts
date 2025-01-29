@@ -85,4 +85,25 @@ export const db: Guitar[] = [
     description: 'Morbi ornare augue nisl, vel elementum dui mollis vel. Curabitur non ex id eros fermentum hendrerit.',
     price: 379,
   },
+  {
+    id: 13,
+    name: 'Krieger v2',
+    image: 'guitarra_09',
+    description: 'Morbi ornare augue nisl, vel elementum dui mollis vel. Curabitur non ex id eros fermentum hendrerit.',
+    price: 289,
+  },
+  {
+    id: 14,
+    name: 'Campbell Ultra',
+    image: 'guitarra_10',
+    description: 'Morbi ornare augue nisl, vel elementum dui mollis vel. Curabitur non ex id eros fermentum hendrerit.',
+    price: 349,
+  },
+  {
+    id: 15,
+    name: 'Reed Plus',
+    image: 'guitarra_11',
+    description: 'Morbi ornare augue nisl, vel elementum dui mollis vel. Curabitur non ex id eros fermentum hendrerit.',
+    price: 399,
+  },
 ];
